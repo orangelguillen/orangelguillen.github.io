@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -605,7 +605,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/trump-2000x1509-3-800x603.jpg",
                 "image": "@PROJECT_PATH@/assets/images/trump-2000x1509-3.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "9th grade",
@@ -689,13 +689,93 @@
               },
               {
                 "tags": "9th grade",
-                "playVideo": true,
+                "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rolo-2-2000x1700-800x680.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rolo-2-2000x1700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-orangel-guillen-2000x666-800x266.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-orangel-guillen-2000x666.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-1-2000x1182-800x472.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-1-2000x1182.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/flash-logo-2-2000x1600-800x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/flash-logo-2-2000x1600.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hulk-3-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975-800x1190.jpg",
+                "image": "@PROJECT_PATH@/assets/images/iron-man-4-2000x2975.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-5-2000x982-800x392.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-5-2000x982.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-6-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-poster-2000x2962-800x1184.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-poster-2000x2962.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "9th grade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "1",
