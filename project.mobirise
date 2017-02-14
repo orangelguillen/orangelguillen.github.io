@@ -588,7 +588,7 @@
             "paddingBottom": 1,
             "images": [
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -598,17 +598,17 @@
                 "active": false
               },
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/trump-2000x1509-3-800x603.jpg",
                 "image": "@PROJECT_PATH@/assets/images/trump-2000x1509-3.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -618,7 +618,7 @@
                 "active": false
               },
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -628,7 +628,7 @@
                 "active": false
               },
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -638,7 +638,7 @@
                 "active": false
               },
               {
-                "tags": "Project 1",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -648,7 +648,7 @@
                 "active": false
               },
               {
-                "tags": "Project 2",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -658,7 +658,7 @@
                 "active": false
               },
               {
-                "tags": "Project 2",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -668,7 +668,7 @@
                 "active": false
               },
               {
-                "tags": "Project 2",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -678,7 +678,7 @@
                 "active": false
               },
               {
-                "tags": "Project 2",
+                "tags": "9th grade",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -688,14 +688,14 @@
                 "active": false
               },
               {
-                "tags": "Project 2",
-                "playVideo": false,
+                "tags": "9th grade",
+                "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/rolo-2-2000x1700-800x680.jpg",
                 "image": "@PROJECT_PATH@/assets/images/rolo-2-2000x1700.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
