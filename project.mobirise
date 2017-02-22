@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 62,
+    "uniqCompNum": 63,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -162,6 +162,69 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Intro<br></a>"
         },
         {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/space-frame-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/space-frame-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robot-frame-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-frame-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trump-frame-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trump-frame-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2000x2000-1-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/untitled-1-recovered-2000x2000-1.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "2",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#000000",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": false
+          },
+          "_anchor": "gallery3-1q",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -180,7 +243,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\">Intoduction</span><br><br></p><p>Application</p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "fernandoguillen1234@yahoo.com",
@@ -1115,7 +1178,7 @@
             "overlayColor": "#3C3C3C"
           },
           "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"https://mobirise.com/\">Website builder</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\">Intoduction</span><br><br></p><p>Application</p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "fernandoguillen1234@yahoo.com",
