@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1286,11 +1286,11 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-1t",
+          "_name": "contacts4",
+          "_anchor": "contacts4-1f",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1300,53 +1300,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "786 451 8107<br>",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "14925 sw 8 terrace, Miami FL 33194",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "fernandoguilleen1234@yahoo.com",
-          "title1": "Links",
-          "text5": "<p><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\">Photoshop</span></font></p><p><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"><br></span></font></p><p><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\">Illustrator</span></font></p><p><font color=\"#bcbcbc\"><span style=\"font-size: 14px; line-height: 25px;\"><br></span></font><br></p><p></p>",
-          "text6": "<strong>Contacts</strong><br>Email: fernandoguillen1234@yahoo.com<br>Phone: 786 451 8107<br><br><br><br><strong>Address</strong><br>14925 sw 8 terrace<br>Miami, FL 33194<br><br>",
+          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><a href=\"Introduction.html\">Intoduction</a></span><br></p><p><br></p><p><a href=\"Photoshop.html\">Photoshop</a></p><p><br></p><p><a href=\"Illustrator.html\">Illustrator</a></p><p><br></p><p><br></p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "fernandoguillen1234@yahoo.com",
