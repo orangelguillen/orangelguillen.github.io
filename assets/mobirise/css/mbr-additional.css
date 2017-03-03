@@ -489,6 +489,11 @@ h6,
 #header1-1g .btn {
   font-family: 'Lato', sans-serif;
 }
+#content8-26 .mbr-section-title,
+#content8-26 p {
+  text-align: right;
+  color: #fff;
+}
 #gallery3-1q .mbr-gallery-item > div > span {
   font-family: 'Roboto', sans-serif;
 }
