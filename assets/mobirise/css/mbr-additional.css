@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -487,6 +488,9 @@ h6,
 }
 #header1-1g .btn {
   font-family: 'Lato', sans-serif;
+}
+#gallery3-1q .mbr-gallery-item > div > span {
+  font-family: 'Roboto', sans-serif;
 }
 
 
