@@ -575,6 +575,14 @@ h6,
   color: #b8312f;
   text-align: center;
 }
+#msg-box8-2b .mbr-section-title,
+#msg-box8-2b p {
+  color: #fff;
+}
+#slider2-2a .mbr-section-title,
+#slider2-2a .mbr-section-lead {
+  color: #fff;
+}
 
 #menu-1y .hide-buttons .nav-btn {
   display: none !important;
