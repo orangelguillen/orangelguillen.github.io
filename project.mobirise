@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Photoshop.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 80,
+    "uniqCompNum": 81,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -766,6 +766,88 @@
           "_anchor": "gallery3-y",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-2-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-2-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-3-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-3-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-4-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-4-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-5-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-5-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Timelapes drawing",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-6-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/orangel-guillen-group-and-layers-6-2000x1438.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": true,
+            "bgColor": "#000000",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-28",
+          "articleLayout": false,
+          "allItem": "Timelapes drawing"
         },
         {
           "_tags": [
