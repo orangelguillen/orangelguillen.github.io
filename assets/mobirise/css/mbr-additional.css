@@ -736,6 +736,10 @@ h6,
 #features7-1c H4 {
   font-family: 'Open Sans', sans-serif;
 }
+#social-buttons4-2c .mbr-section-title,
+#social-buttons4-2c .btn-social {
+  color: #fff;
+}
 
 #ext_menu-1j .hide-buttons .nav-btn {
   display: none !important;
