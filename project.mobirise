@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 88,
+    "uniqCompNum": 89,
     "versionPublish": "3.10.7"
   },
   "pages": {
@@ -140,9 +140,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             },
             ".btn": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "13px"
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "15px"
             }
           },
           "_anchor": "header1-1g",
@@ -160,7 +160,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.4",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -169,20 +169,7 @@
           },
           "title": "Orangel F. Guillen",
           "text": "<br>~~See my stuff~~",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "buttons1",
-          "_anchor": "buttons1-2f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://youtu.be/IAyxpwhXgeA\" data-toolbar=\"-mbrBtnMove\">My video</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/IAyxpwhXgeA\" data-toolbar=\"-mbrBtnMove\">My video</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1350,7 +1337,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
+          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\u001b",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><a href=\"Introduction.html\">Intoduction</a></span><br></p><p><br></p><p><a href=\"Photoshop.html\">Photoshop</a></p><p><br></p><p><a href=\"Illustrator.html\">Illustrator</a></p><p><br></p><p><br></p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
@@ -1753,7 +1740,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
+          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\u001b",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><a href=\"Introduction.html\">Intoduction</a></span><br></p><p><br></p><p><a href=\"Photoshop.html\">Photoshop</a></p><p><br></p><p><a href=\"Illustrator.html\">Illustrator</a></p><p><br></p><p><br></p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
@@ -2378,7 +2365,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\nFax: 786 451 8107",
+          "text1": "<strong>Address</strong><br>14925 sw 8 Terrace&nbsp;<br>Miami, FL 33194<br><br><br>\n<strong>Contacts</strong><br>\nEmail: fernandoguillen1234@yahoo.com<br>\nPhone: 786 451 8107<br>\u001b",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><p><span style=\"font-size: 14px; line-height: 25px;\"><a href=\"Introduction.html\">Intoduction</a></span><br></p><p><br></p><p><a href=\"Photoshop.html\">Photoshop</a></p><p><br></p><p><a href=\"Illustrator.html\">Illustrator</a></p><p><br></p><p><br></p><p><br></p><p><br></p></ul>",
           "form": {
             "title": "MESSAGE",
