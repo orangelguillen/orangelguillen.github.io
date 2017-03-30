@@ -169,7 +169,7 @@
           },
           "title": "Orangel F. Guillen",
           "text": "<br>~~See my stuff~~",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/IAyxpwhXgeA\" data-toolbar=\"-mbrBtnMove\">My video Bio</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/K8afi9Q1_q8\" data-toolbar=\"-mbrBtnMove\">My video Bio</a>"
         },
         {
           "_inherit": "social-buttons2",
