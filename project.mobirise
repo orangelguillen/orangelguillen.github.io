@@ -147,7 +147,7 @@
           },
           "_anchor": "header1-1g",
           "_params": {
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/img-0550-2000x1500.jpg",
@@ -169,7 +169,7 @@
           },
           "title": "Orangel F. Guillen",
           "text": "<br>~~See my stuff~~",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/IAyxpwhXgeA\" data-toolbar=\"-mbrBtnMove\">My video</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">come and see</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://youtu.be/IAyxpwhXgeA\" data-toolbar=\"-mbrBtnMove\">My video Bio</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1541,7 +1541,7 @@
           },
           "title": "Biography",
           "text": "My name is Orangel Guillen, I was born December 10 2001.<br>I always enjoyed technology and I want my future carrier to involve tech.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#content7-w\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a> "
         },
         {
           "_tags": [
