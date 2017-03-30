@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Introduction.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1616,7 +1616,7 @@
           },
           "title": "Biography",
           "text": "My name is Orangel Guillen, I was born December 10 2001.<br>I always enjoyed technology and I want my future carrier to involve tech.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Introduction.html\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"Introduction.html#content6-1p\" data-toolbar=\"-mbrBtnMove\">Biography Continued</a> "
         },
         {
           "_tags": [
