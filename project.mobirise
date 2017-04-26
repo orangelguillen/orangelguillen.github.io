@@ -150,7 +150,7 @@
             "parallax": false,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-0550-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1459745849474-a9f95b6b2705-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -214,7 +214,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#688161",
+            "bgColor": "#61817b",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
