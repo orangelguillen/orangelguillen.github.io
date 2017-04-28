@@ -308,7 +308,7 @@
             "spacing": "2",
             "showText": true,
             "filter": false,
-            "bgColor": "#000000",
+            "bgColor": "#c1c1c1",
             "filterBgColor": true,
             "fullWidth": true,
             "showBullets": false
